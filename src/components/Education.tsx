@@ -9,7 +9,7 @@ const Education = () => {
       degree: "M.Sc (IT)",
       institution: "DAIICT, Gandhinagar",
       duration: "July 2023 – June 2025",
-      status: "In Progress",
+      status: "Completed",
       description: "Master's program focusing on advanced information technology concepts, software development, and research methodologies."
     },
     {

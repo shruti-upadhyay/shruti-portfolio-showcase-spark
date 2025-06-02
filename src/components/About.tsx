@@ -16,9 +16,10 @@ const About = () => {
               <div className="prose prose-lg max-w-none">
                 <p className="text-gray-700 leading-relaxed mb-6">
                   My journey into technology began with a curiosity about how digital solutions can solve real-world problems. 
-                  Currently pursuing my <strong>Master's in Information Technology at DAIICT, Gandhinagar</strong>, I've developed 
+                  I completed my <strong>Master's in Information Technology at DAIICT, Gandhinagar</strong>, I’ve developed 
                   a comprehensive understanding of full-stack development and modern web technologies.
                 </p>
+
                 
                 <p className="text-gray-700 leading-relaxed mb-6">
                   Throughout my academic and professional journey, I've gained hands-on experience working with cutting-edge 

@@ -13,7 +13,7 @@ const Header = () => {
       <div className="max-w-4xl mx-auto text-center animate-fade-in">
         <div className="mb-8">
           <img
-            src="https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?w=300&h=300&fit=crop&crop=face"
+            src="/profile.jpg"
             alt="Shruti Upadhyay"
             className="w-48 h-48 rounded-full mx-auto mb-6 object-cover border-4 border-white shadow-xl hover-scale"
           />
